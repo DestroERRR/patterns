@@ -1,11 +1,11 @@
 # patterns
-Making Patterns with Loops 
+//Making Patterns with Loops 
 //For circles
 int x = 0; 
 int y = 0;
 int w = 100;
 
-//for rec
+//for squares 
 int a = 0;
 int b = 0;
 int c = 20;
